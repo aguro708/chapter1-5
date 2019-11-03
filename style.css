@@ -24,3 +24,79 @@ header .head-line{
 	display: inline-block;
 	list-style:none;
 }
+.main{
+	width:800px;
+	margin: 50px auto;
+}
+.box1{
+	float:left;
+	background-color: #e6ffe9;
+	height:200px;
+	width:200px;
+}
+.box2{
+	float:left;
+	background-color: #cbffd3;
+	height:200px;
+	width:200px;
+}
+.box3{
+	float:left;
+	background-color: #aeffbd;
+	height:200px;
+	width:200px;
+}
+.box4{
+	float:left;
+	background-color: #93ffab;
+	height:200px;
+	width:200px;
+}
+.box5{
+	float:left;
+	background-color: #f3ffd8;
+	height:200px;
+	width:200px;
+}
+.box6{
+	float:left;
+	background-color: #edffbe;
+	height:200px;
+	width:200px;
+}
+.box7{
+	float:left;
+	background-color: #e9ffa5;
+	height:200px;
+	width:200px;
+}
+.box8{
+	float:left;
+	background-color: #e4ff8d;
+	height:200px;
+	width:200px;
+}
+.box9{
+	float:left;
+	background-color: #d9e5ff;
+	height:200px;
+	width:200px;
+}
+.box10{
+	float:left;
+	background-color: #bad3ff;
+	height:200px;
+	width:200px;
+}
+.box11{
+	float:left;
+	background-color: #a4c6ff;
+	height:200px;
+	width:200px;
+}
+.box12{
+	float:left;
+	background-color: #8eb8ff;
+	height:200px;
+	width:200px;
+}
